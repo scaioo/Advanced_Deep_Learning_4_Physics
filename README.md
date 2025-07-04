@@ -8,8 +8,11 @@ The course explores cutting-edge deep learning techniques applied to physical mo
 ## 📂 Repository Structure
 
 Advanced_Deep_Learning_4_Physics/
+
 ├── Exercises/ # Notebooks and scripts for hands-on practice
+
 └── Solutions/ # Completed solutions with explanations
+
 ---
 
 ## 🧑‍🔬 Course Topics
